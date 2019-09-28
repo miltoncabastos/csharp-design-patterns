@@ -1,0 +1,11 @@
+C:\Users\milto\source\repos\Singleton\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.deps.json
+C:\Users\milto\source\repos\Singleton\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.runtimeconfig.json
+C:\Users\milto\source\repos\Singleton\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.runtimeconfig.dev.json
+C:\Users\milto\source\repos\Singleton\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.dll
+C:\Users\milto\source\repos\Singleton\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.pdb
+C:\Users\milto\source\repos\Singleton\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\milto\source\repos\Singleton\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\milto\source\repos\Singleton\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\milto\source\repos\Singleton\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfo.cs
+C:\Users\milto\source\repos\Singleton\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.dll
+C:\Users\milto\source\repos\Singleton\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.pdb
