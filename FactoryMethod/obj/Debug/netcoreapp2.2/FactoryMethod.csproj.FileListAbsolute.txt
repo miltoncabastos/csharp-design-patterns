@@ -14,7 +14,6 @@ C:\Projetos\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.r
 C:\Projetos\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.runtimeconfig.dev.json
 C:\Projetos\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.dll
 C:\Projetos\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.pdb
-C:\Projetos\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csprojAssemblyReference.cache
 C:\Projetos\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfoInputs.cache
 C:\Projetos\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfo.cs
 C:\Projetos\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.dll
